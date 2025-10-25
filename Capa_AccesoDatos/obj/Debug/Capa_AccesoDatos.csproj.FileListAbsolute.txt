@@ -1,0 +1,6 @@
+C:\Users\Usuario\Downloads\Patalla_sistemaDeFacturación\Patalla_sistemaDeFacturación\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\Usuario\Downloads\Patalla_sistemaDeFacturación\Patalla_sistemaDeFacturación\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\Usuario\Downloads\Patalla_sistemaDeFacturación\Patalla_sistemaDeFacturación\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Patalla_sistemaDeFacturación\Patalla_sistemaDeFacturación\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Patalla_sistemaDeFacturación\Patalla_sistemaDeFacturación\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.dll
+C:\Users\Usuario\Downloads\Patalla_sistemaDeFacturación\Patalla_sistemaDeFacturación\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.pdb
