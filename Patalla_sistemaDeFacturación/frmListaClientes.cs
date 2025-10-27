@@ -58,7 +58,7 @@ namespace Patalla_sistemaDeFacturación
                 {
                     MessageBox.Show($"BORRANDO índice {e.RowIndex} ID {dgClientes[0, posActual].Value}");
                     int IdCliente = Convert.ToInt32(dgClientes[0, posActual].Value); // capturamos el ID del cliente a borrar
-                    String sentencia = $"Exec BORRAR_CLIENTE {IdCliente}"; // creamos la sentencia SQL
+                    String sentencia = $"Exec Eliminar_Cliente {IdCliente}"; // creamos la sentencia SQL
                     string Mensaje = Acceso.EjecutarComando(sentencia); // ejecutamos la sentencia
                     MessageBox.Show(Mensaje); // mostramos el mensaje de confirmación   
 

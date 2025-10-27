@@ -110,7 +110,7 @@ namespace Patalla_sistemaDeFacturación
                 if (MessageBox.Show("¿Seguro que desea borrar este producto?", "Confirmación", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
                     int IdProducto = Convert.ToInt32(dgProductos[0, pos].Value);
-                    string sentencia = $"EXEC BORRAR_PRODUCTO {IdProducto}";
+                    string sentencia = $"EXEC Eliminar_Producto {IdProducto}";
                     string mensaje = Acceso.EjecutarComando(sentencia);
                     MessageBox.Show(mensaje);
                     llenar_grid();

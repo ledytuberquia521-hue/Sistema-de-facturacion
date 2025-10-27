@@ -55,7 +55,7 @@ namespace Patalla_sistemaDeFacturación
                 if (dt != null && dt.Rows.Count > 0)
                 {
                     DataRow row = dt.Rows[0];
-                    txtCodReferencia.Text = row["StrCodigo"].ToString();
+                    txtCodReferencia.Text = row["IdProducto"].ToString();
                     txtNomProducto.Text = row["StrNombre"].ToString();
                     txtPreCompras.Text = row["NumPrecioCompra"].ToString();
                     txtPreVentas.Text = row["NumPrecioVenta"].ToString();
@@ -111,49 +111,24 @@ namespace Patalla_sistemaDeFacturación
             {
                 try
                 {
-                    string storedProcedure = id_producto == 0 ? "insertar_Producto" : "actualizar_Producto";
+                    string fecha = DateTime.Now.ToString("yyyy-MM-dd");
+                    string usuario = "UsuarioAdmin"; // o el nombre real de quien está logueado
 
-                    SqlParameter[] parameters;
+                    string sentencia = "";
+
                     if (id_producto == 0)
                     {
-                        parameters = new SqlParameter[]
-                        {
-        new SqlParameter("@StrNombre", txtNomProducto.Text),
-        new SqlParameter("@StrCodigo", txtCodReferencia.Text),
-        new SqlParameter("@NumPrecioCompra", Convert.ToDecimal(txtPreCompras.Text)),
-        new SqlParameter("@NumPrecioVenta", Convert.ToDecimal(txtPreVentas.Text)),
-        new SqlParameter("@IdCategoria", Convert.ToInt32(comboBox1.SelectedValue)),
-        new SqlParameter("@StrDetalle", txtDetalle.Text),
-        new SqlParameter("@strFoto", txtRutaImagen.Text),
-        new SqlParameter("@NumStock", Convert.ToInt32(txtCanStock.Text)),
-
-        // Agrega estos dos parámetros obligatorios
-      new SqlParameter("@DtmFechaModifica", DateTime.Now),
-
-        new SqlParameter("@StrUsuarioModifica", "UsuarioAdmin")  // Cambia si tienes un usuario real
-                        };
+                        // Insertar nuevo producto
+                        sentencia = $"INSERT INTO TBLPRODUCTO (StrNombre, StrCodigo, NumPrecioCompra, NumPrecioVenta, IdCategoria, StrDetalle, strFoto, NumStock, DtmFechaModifica, StrUsuarioModifica) " +
+                                    $"VALUES ('{txtNomProducto.Text}', '{txtCodReferencia.Text}', {txtPreCompras.Text}, {txtPreVentas.Text}, {comboBox1.SelectedValue}, '{txtDetalle.Text}', '{txtRutaImagen.Text}', {txtCanStock.Text}, '{fecha}', '{usuario}')";
                     }
                     else
                     {
-                        // Parámetros para actualizar (igual que antes, asegúrate de incluir todos)
-                        parameters = new SqlParameter[]
-                        {
-        new SqlParameter("@IdProducto", id_producto),
-        new SqlParameter("@StrNombre", txtNomProducto.Text),
-        new SqlParameter("@StrCodigo", txtCodReferencia.Text),
-        new SqlParameter("@NumPrecioCompra", Convert.ToDecimal(txtPreCompras.Text)),
-        new SqlParameter("@NumPrecioVenta", Convert.ToDecimal(txtPreVentas.Text)),
-        new SqlParameter("@IdCategoria", Convert.ToInt32(comboBox1.SelectedValue)),
-        new SqlParameter("@StrDetalle", txtDetalle.Text),
-        new SqlParameter("@strFoto", txtRutaImagen.Text),
-        new SqlParameter("@NumStock", Convert.ToInt32(txtCanStock.Text)),
-        new SqlParameter("@DtmFechaModifica", DateTime.Now),
-        new SqlParameter("@StrUsuarioModifica", "UsuarioAdmin")
-                        };
+                        // Actualizar producto existente
+                        sentencia = $"EXEC [actualizar_Producto] {id_producto}, '{txtNomProducto.Text}', '{txtCodReferencia.Text}', {txtPreCompras.Text}, {txtPreVentas.Text}, {comboBox1.SelectedValue}, '{txtDetalle.Text}', '{txtRutaImagen.Text}', {txtCanStock.Text}, '{fecha}', '{usuario}'";
                     }
 
-
-                    string mensaje = Acceso.EjecutarComandoSP(storedProcedure, parameters);
+                    string mensaje = Acceso.EjecutarComando(sentencia);
                     MessageBox.Show(mensaje);
                     return true;
                 }

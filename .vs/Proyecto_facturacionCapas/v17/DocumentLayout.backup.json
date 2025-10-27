@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC36493-3124-4A98-A825-5B86F68C3EBC}|Capa_AccesoDatos\\Capa_AccesoDatos.csproj|c:\\users\\usuario\\downloads\\patalla_sistemadefacturaci\u00F3n\\patalla_sistemadefacturaci\u00F3n\\capa_accesodatos\\cls_acceso_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC36493-3124-4A98-A825-5B86F68C3EBC}|Capa_AccesoDatos\\Capa_AccesoDatos.csproj|solutionrelative:capa_accesodatos\\cls_acceso_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98EB0F6-36F9-4CC9-B1A4-9AE1CE47C9A8}|Patalla_sistemaDeFacturaci\u00F3n\\Capa_presentacion.csproj|C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\patalla_sistemadefacturaci\u00F3n\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98EB0F6-36F9-4CC9-B1A4-9AE1CE47C9A8}|Patalla_sistemaDeFacturaci\u00F3n\\Capa_presentacion.csproj|solutionrelative:patalla_sistemadefacturaci\u00F3n\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98EB0F6-36F9-4CC9-B1A4-9AE1CE47C9A8}|Patalla_sistemaDeFacturaci\u00F3n\\Capa_presentacion.csproj|C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\patalla_sistemadefacturaci\u00F3n\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F98EB0F6-36F9-4CC9-B1A4-9AE1CE47C9A8}|Patalla_sistemaDeFacturaci\u00F3n\\Capa_presentacion.csproj|solutionrelative:patalla_sistemadefacturaci\u00F3n\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ED7EA9-4FE5-47F9-9B34-435463AFDB2C}|Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj|C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\capa_logicadenegocios\\validar_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ED7EA9-4FE5-47F9-9B34-435463AFDB2C}|Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj|solutionrelative:capa_logicadenegocios\\validar_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98EB0F6-36F9-4CC9-B1A4-9AE1CE47C9A8}|Patalla_sistemaDeFacturaci\u00F3n\\Capa_presentacion.csproj|C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\patalla_sistemadefacturaci\u00F3n\\frmadminseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98EB0F6-36F9-4CC9-B1A4-9AE1CE47C9A8}|Patalla_sistemaDeFacturaci\u00F3n\\Capa_presentacion.csproj|solutionrelative:patalla_sistemadefacturaci\u00F3n\\frmadminseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98EB0F6-36F9-4CC9-B1A4-9AE1CE47C9A8}|Patalla_sistemaDeFacturaci\u00F3n\\Capa_presentacion.csproj|C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\patalla_sistemadefacturaci\u00F3n\\frmadminseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F98EB0F6-36F9-4CC9-B1A4-9AE1CE47C9A8}|Patalla_sistemaDeFacturaci\u00F3n\\Capa_presentacion.csproj|solutionrelative:patalla_sistemadefacturaci\u00F3n\\frmadminseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ED7EA9-4FE5-47F9-9B34-435463AFDB2C}|Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj|C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\capa_logicadenegocios\\cls_seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ED7EA9-4FE5-47F9-9B34-435463AFDB2C}|Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj|solutionrelative:capa_logicadenegocios\\cls_seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ED7EA9-4FE5-47F9-9B34-435463AFDB2C}|Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj|C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\capa_logicadenegocios\\cls_empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ED7EA9-4FE5-47F9-9B34-435463AFDB2C}|Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj|solutionrelative:capa_logicadenegocios\\cls_empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98EB0F6-36F9-4CC9-B1A4-9AE1CE47C9A8}|Patalla_sistemaDeFacturaci\u00F3n\\Capa_presentacion.csproj|C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\patalla_sistemadefacturaci\u00F3n\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98EB0F6-36F9-4CC9-B1A4-9AE1CE47C9A8}|Patalla_sistemaDeFacturaci\u00F3n\\Capa_presentacion.csproj|solutionrelative:patalla_sistemadefacturaci\u00F3n\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98EB0F6-36F9-4CC9-B1A4-9AE1CE47C9A8}|Patalla_sistemaDeFacturaci\u00F3n\\Capa_presentacion.csproj|C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\patalla_sistemadefacturaci\u00F3n\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F98EB0F6-36F9-4CC9-B1A4-9AE1CE47C9A8}|Patalla_sistemaDeFacturaci\u00F3n\\Capa_presentacion.csproj|solutionrelative:patalla_sistemadefacturaci\u00F3n\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frmlogin.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Frmlogin.cs",
+              "RelativeDocumentMoniker": "Patalla_sistemaDeFacturaci\u00F3n\\Frmlogin.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Frmlogin.cs",
+              "RelativeToolTip": "Patalla_sistemaDeFacturaci\u00F3n\\Frmlogin.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAqwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T00:05:33.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frmlogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Frmlogin.cs",
+              "RelativeDocumentMoniker": "Patalla_sistemaDeFacturaci\u00F3n\\Frmlogin.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Frmlogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Patalla_sistemaDeFacturaci\u00F3n\\Frmlogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T00:05:32.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validar_usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Capa_LogicaDeNegocios\\Validar_usuario.cs",
+              "RelativeDocumentMoniker": "Capa_LogicaDeNegocios\\Validar_usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Capa_LogicaDeNegocios\\Validar_usuario.cs",
+              "RelativeToolTip": "Capa_LogicaDeNegocios\\Validar_usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T23:34:23.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAdminSeguridad.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\frmAdminSeguridad.cs",
+              "RelativeDocumentMoniker": "Patalla_sistemaDeFacturaci\u00F3n\\frmAdminSeguridad.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\frmAdminSeguridad.cs",
+              "RelativeToolTip": "Patalla_sistemaDeFacturaci\u00F3n\\frmAdminSeguridad.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAADwv40AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:46:33.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cls_Seguridad.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Capa_LogicaDeNegocios\\Cls_Seguridad.cs",
+              "RelativeDocumentMoniker": "Capa_LogicaDeNegocios\\Cls_Seguridad.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Capa_LogicaDeNegocios\\Cls_Seguridad.cs",
+              "RelativeToolTip": "Capa_LogicaDeNegocios\\Cls_Seguridad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T02:08:14.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cls_Acceso_Datos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Capa_AccesoDatos\\Cls_Acceso_Datos.cs",
+              "RelativeDocumentMoniker": "Capa_AccesoDatos\\Cls_Acceso_Datos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Capa_AccesoDatos\\Cls_Acceso_Datos.cs*",
+              "RelativeToolTip": "Capa_AccesoDatos\\Cls_Acceso_Datos.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDEAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T20:26:42.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAdminSeguridad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\frmAdminSeguridad.cs",
+              "RelativeDocumentMoniker": "Patalla_sistemaDeFacturaci\u00F3n\\frmAdminSeguridad.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\frmAdminSeguridad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Patalla_sistemaDeFacturaci\u00F3n\\frmAdminSeguridad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:39:28.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\frmEmpleados.cs",
+              "RelativeDocumentMoniker": "Patalla_sistemaDeFacturaci\u00F3n\\frmEmpleados.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\frmEmpleados.cs",
+              "RelativeToolTip": "Patalla_sistemaDeFacturaci\u00F3n\\frmEmpleados.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAJIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T03:59:06.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cls_Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Capa_LogicaDeNegocios\\Cls_Empleados.cs",
+              "RelativeDocumentMoniker": "Capa_LogicaDeNegocios\\Cls_Empleados.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Capa_LogicaDeNegocios\\Cls_Empleados.cs",
+              "RelativeToolTip": "Capa_LogicaDeNegocios\\Cls_Empleados.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wCoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T03:10:56.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\frmEmpleados.cs",
+              "RelativeDocumentMoniker": "Patalla_sistemaDeFacturaci\u00F3n\\frmEmpleados.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\Patalla_sistemaDeFacturaci\u00F3n\\frmEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Patalla_sistemaDeFacturaci\u00F3n\\frmEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T03:48:01.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
